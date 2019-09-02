@@ -1,4 +1,4 @@
-# The value of consciousness : an experimental philosophy approach
+# The value of consciousness : an experimental philosophy approach
 
 This repository contains the necessary materials to generate all the relevant plots and data analysis for Sonia Higgins' mémoire.
 
